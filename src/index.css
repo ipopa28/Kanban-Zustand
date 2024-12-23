@@ -1,0 +1,17 @@
+:root {
+  --COLOR-GRAY: #333333;
+  --COLOR-GRAY-DARK: #222222;
+  --COLOR-GRAY-LIGHT: #cccccc;
+  --COLOR-ONGOING: #98c1d9;  
+  --COLOR-DONE: #ee6c4d;
+  font-family: Helvetica;
+}
+
+body {
+  margin: 0;
+}
+
+* {
+  /* enables us to have the padding inside of the element and not to increase it further than its max width */
+  box-sizing: border-box; 
+}
