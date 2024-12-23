@@ -24,3 +24,32 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+The project has been created using:
+
+```bash
+npm create vite .
+```
+
+Run it using:
+
+```bash
+npm run dev
+```
+
+Run the unit tests using:
+
+```bash
+npm run test
+```
+
+Other installed packages and libraries:
+
+- Zustand
+- Classnames
+- Vitest
+- Immer
+
+
+
+
